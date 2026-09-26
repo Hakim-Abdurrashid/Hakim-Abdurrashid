@@ -19,7 +19,7 @@
         <a href="YOUR_MEDIA_URL_HERE" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/🎬%20View%20Media-d4a373?style=for-the-badge&logoColor=white" alt="View Media" style="vertical-align: middle;" /></a>
       </p>
       <p style="color: #a3a3a3; font-size: 0.95rem; line-height: 1.4; margin: 0;">
-        Subteam responsible for designing, developing, testing, and interfacing electrical devices used in the AUV.
+        Interfaces natural language with physical robotics by parsing prompts into Isaac Sim and automating intermediate code generation to mountable storage export to a robot controller.
       </p>
     </td>
     
