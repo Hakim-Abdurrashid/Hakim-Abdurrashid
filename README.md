@@ -52,7 +52,7 @@
       <p style="margin: 14px 0 10px 0;">
         <a href="https://github.com/queenly-xie77/EOG_Eye" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/📂%20View%20Repository-22c55e?style=for-the-badge&logoColor=white" alt="View Repository" style="vertical-align: middle;" /></a>
         &nbsp;&nbsp;
-        <a href="https://github.com/Hakim-Abdurrashid/Hakim-Abdurrashid/blob/main/meida/project3/media.md" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/🎬%20View%20Media-d4a373?style=for-the-badge&logoColor=white" alt="View Media" style="vertical-align: middle;" /></a>
+        <a href="https://youtu.be/vkBvg_qlu0k" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/🎬%20View%20Media-d4a373?style=for-the-badge&logoColor=white" alt="View Media" style="vertical-align: middle;" /></a>
       </p>
       <p style="color: #a3a3a3; font-size: 0.95rem; line-height: 1.4; margin: 0;">
         Designed and prototyped a physiological monitoring device using a Raspberry Pi Pico and BITalino amplifier to acquire, amplify, and process biometric signals via surface electrodes for remote health diagnostics.
