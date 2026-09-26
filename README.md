@@ -47,7 +47,7 @@
     <!-- PROJECT CARD 3 -->
     <td width="50%" align="center" valign="top">
       <img src="https://github.com/Hakim-Abdurrashid/Hakim-Abdurrashid/releases/download/media/micro_sheep_still.png" alt="Project 3 Preview" width="100%" style="height: 400px; object-fit: cover; border-radius: 8px;" />
-      <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=Your+Third+Project+Title&fontSize=36&fontColor=38bdf8&animation=twinkling&fontAlignY=50" alt="Project 3 Title" width="100%" style="margin: 8px 0 0 0;" />
+      <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=IEEE%20EMBS%20UCF%20FIT%20UF%20Statewide%20Competition&fontSize=36&fontColor=9642e0&animation=twinkling&fontAlignY=50" alt="Project 3 Title" width="100%" style="margin: 8px 0 0 0;" />
       <!-- Solid Button Badges -->
       <p style="margin: 14px 0 10px 0;">
         <a href="https://github.com/queenly-xie77/EOG_Eye" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/📂%20View%20Repository-22c55e?style=for-the-badge&logoColor=white" alt="View Repository" style="vertical-align: middle;" /></a>
@@ -55,7 +55,7 @@
         <a href="https://github.com/Hakim-Abdurrashid/Hakim-Abdurrashid/releases/download/media/ucf_ieee_embs_statewide.mp4" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/🎬%20View%20Media-d4a373?style=for-the-badge&logoColor=white" alt="View Media" style="vertical-align: middle;" /></a>
       </p>
       <p style="color: #a3a3a3; font-size: 0.95rem; line-height: 1.4; margin: 0;">
-        Designed and prototyped a physiological monitoring device using a Raspberry Pi Pico and BITalino amplifier to acquire, amplify, and process biometric signals (EEG/EOG) via surface electrodes for remote health diagnostics.
+        Designed and prototyped a physiological monitoring device using a Raspberry Pi Pico and BITalino amplifier to acquire, amplify, and process biometric signals via surface electrodes for remote health diagnostics.
       </p>
     </td>
     
